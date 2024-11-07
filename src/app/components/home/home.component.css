@@ -1,0 +1,31 @@
+.container-primary{
+    /* height: calc(100vh - 4rem); */
+    height: 100vh;
+    background-color:rgb(94, 94, 106) ;
+
+}
+
+.container{
+    background-color:rgb(50, 50, 57) ;
+    border-radius: 4.5rem;
+    width: 60rem;
+    height: 35rem;
+    border: 0.5px solid whitesmoke;
+}
+
+.container-data{
+
+    width: 40rem;
+    height: 25rem;
+}
+
+.circulo {
+   
+    background-color: #3498db; /* Color de fondo */
+    border-radius: 50%; /* Hace que sea un círculo */
+    display: flex; /* Para centrar contenido */
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    color: white; /* Color del texto */
+    font-weight: bold; /* Negrita */
+}
